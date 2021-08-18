@@ -1,6 +1,6 @@
 # Redesigned-Amazon-UI
 
-// In Progress
-Languages : JavaScript, CSS, HTML
-Frameworks : Tailwind CSS
-Deployment : Firebase
+<br>// In Progress 
+<br>Languages : JavaScript, CSS, HTML 
+<br>Frameworks : Tailwind CSS
+<br>Deployment : Firebase
